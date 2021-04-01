@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project-4-Ryan_Laughlin",
+"productVersion": "0.1",
+"dataUrl": "Soccer-Bump.data.unityweb",
+"wasmCodeUrl": "Soccer-Bump.wasm.code.unityweb",
+"wasmFrameworkUrl": "Soccer-Bump.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
